@@ -18,10 +18,10 @@ SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further detail
 	
 		<groupId>ch.qos.logback</groupId>
 		
-			<artifactId>logback-classic</artifactId>
+		<artifactId>logback-classic</artifactId>
+		
+		<version>1.2.3</version>
 			
-			<version>1.2.3</version>
+		<scope>test</scope>
 			
-			<scope>test</scope>
-			
-		</dependency>
+	</dependency>
