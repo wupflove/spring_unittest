@@ -1,5 +1,7 @@
 # What is spring_unittest?
 
+by wupf@asiainfo.com
+
 spring unittest 单元测试 样例
 
 
@@ -21,4 +23,6 @@ spring 的单元测试相对比较复杂
 
 不同的使用方法对应不同的自动化生产配置。这个需要人为指定参数。
 
-by wupf@asiainfo.com
+
+# 资源
+DbUnit: 一年没有更新版本了，在三更的要求下，难免会不济
