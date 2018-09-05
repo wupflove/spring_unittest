@@ -26,3 +26,5 @@ spring 的单元测试相对比较复杂
 
 # 资源参考
 DbUnit: 一年没有更新版本了，在三更的要求下，难免会不济
+
+EasyMock: Java library "that provides Mock Objects for interfaces (and objects through the class extension) by generating them on the fly using Java’s proxy mechanism." Used by the Spring Framework in its test suite.
